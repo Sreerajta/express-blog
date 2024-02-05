@@ -9,7 +9,7 @@ Technologies used :
 - Typescript
 - Docker
 
-The project strives to achieve the following best practices :-
+The project strives to achieve the following best practices :
 
 1. Ensure Versioning
 2. Name Resources in Plural
